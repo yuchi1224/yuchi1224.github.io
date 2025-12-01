@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Assistant at National Taiwan University, working with **Prof. Yu-tin Huang**. I received my M.S. in Physics (2025) and B.S. in Physics and Mathematics (2023) from NTU.
+I am currently a Research Assistant at Department of Physics, National Taiwan University (NTU), working with **Prof. Yu-tin Huang**. I received my M.S. in Physics (2025) and B.S. in Physics and Mathematics (2023) from NTU.
 
 I am interested in exploring the interaction between Theoretical Physics and Mathematics, such as using mathematical techniques to understand the hidden structures behind physical theories and applying my knowledge of physics to gain new insights into mathematical problems. I want to leverage mathematical tools like geometry, topology, and combinatorics to offer new insights into quantum theories and address longstanding challenges.
 
