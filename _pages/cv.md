@@ -11,10 +11,13 @@ redirect_from:
 
 <a href="/files/cv.pdf" download class="btn btn--primary btn--large">Download Full CV (PDF)</a>
 
-Education
-======
-* M.S. in Physics, National Taiwan University, 2025
-* B.S. in Physics & Mathematics, National Taiwan University, 2023
+## Education
+
+* **M.S. in Physics**, National Taiwan University, 2025
+  * **Advisor:** Prof. Yu-Tin Huang
+  * **Thesis:** All zeros of (super) String Theory
+ 
+* **B.S. in Physics & Mathematics (Dual Degree)**, National Taiwan University, 2023
 
 ## Research Interests
 * Quantum Field Theory and Scattering Amplitude
@@ -26,7 +29,7 @@ Education
 * **Tools**: LaTeX, GitHub
 ## Publications
 
-* **Yu-Chi Chang**, Hsing-Yen Chen, Yu-Tin Huang. "[All zeros of (super) String Theory](https://arxiv.org/abs/2506.15299)." *arXiv:2506.15299 [hep-th]*.
+* **Yu-Chi Chang**, Hsing-Yen Chen, Yu-tin Huang. "[All zeros of (super) String Theory](https://arxiv.org/abs/2506.15299)." *arXiv:2506.15299 [hep-th]*.
   
 ## Teaching & Service
 * **Teaching Assistant**, National Taiwan University
