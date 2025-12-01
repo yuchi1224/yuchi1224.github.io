@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Assistant at National Taiwan University (NTU), working with **Prof. Yu-Tin Huang**. I received my M.S. in Physics(2025) and B.S. in Physics and Mathematics(2023) from NTU.
+I am currently a Research Assistant at National Taiwan University (NTU), working with **Prof. Yu-Tin Huang**. I received my M.S. in Physics (2025) and B.S. in Physics and Mathematics (2023) from NTU.
 
 I am interested in exploring the interaction between Theoretical Physics and Mathematics, such as using mathematical techniques to understand the hidden structures behind physical theories and applying my knowledge of physics to gain new insights into mathematical problems. I want to leverage mathematical tools like geometry, topology, and combinatorics to offer new insights into quantum theories and address longstanding challenges.
 
@@ -17,4 +17,3 @@ I was advised by **Prof. Yu-tin Huang** at NTU. Our recent work focuses on devel
 
 You can find my [CV here](/cv/) and a list of my [publications here](/publications/).
 
-(https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
