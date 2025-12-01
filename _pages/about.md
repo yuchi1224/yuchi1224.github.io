@@ -8,16 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's graduate in Physics from **National Taiwan University (NTU)**, where I also completed a BS in **Physics and Mathematics**.
+I am currently a Research Assistant at National Taiwan University (NTU), working with **Prof. Yu-Tin Huang**. I received my M.S. in Physics(2025) and B.S. in Physics and Mathematics(2023) from NTU.
 
-My research lies at the interface of **High Energy Theory** and **Mathematical Physics**. I am particularly interested in using rigorous mathematical structures—such as **Tropical Geometry**, **Complex Geometry**, and **Integrability**—to uncover hidden properties in **Scattering Amplitudes** and **String Theory**.
+I am interested in exploring the interaction between Theoretical Physics and Mathematics, such as using mathematical techniques to understand the hidden structures behind physical theories and applying my knowledge of physics to gain new insights into mathematical problems. I want to leverage mathematical tools like geometry, topology, and combinatorics to offer new insights into quantum theories and address longstanding challenges.
 
-I was advised by [Prof. Yu-Tin Huang](https://web.phys.ntu.edu.tw/~yutin/) at NTU. My recent work focuses on developing scaffolding techniques to construct string amplitudes and identifying their hidden zeros, as detailed in my paper *"[All zeros of (super) String Theory](https://arxiv.org/abs/2506.15299)"*.
+I was advised by **Prof. Yu-tin Huang** at NTU. Our recent work focuses on developing scaffolding techniques to construct string amplitudes and identifying their hidden zeros, as detailed in my paper *"[All zeros of (super) String Theory](https://arxiv.org/abs/2506.15299)"*.
 
-I am currently applying for Ph.D. programs in Physics (Fall 2026 entry), aiming to further explore the geometric and algebraic structures underlying quantum field theory and gravity.
 
 You can find my [CV here](/cv/) and a list of my [publications here](/publications/).
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+(https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
