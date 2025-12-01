@@ -15,7 +15,7 @@ Here is a collection of final projects and reports from my graduate and undergra
 
 
 ## Mathematics
-* **[Morse Theory and Bott Periodicity Theorem](/files/geometry_project.pdf)**
+* **[Morse Theory and Bott Periodicity Theorem](/files/geometry_final.pdf)**
   * *Course:* Geometry (Honored Course)
   * *Description:* Established the link between critical points and manifold homotopy types and applied these concepts to Riemannian geometry to derive the **Morse Index Theorem**. Analyzed the space of minimal geodesics in $SU(2m)$ to provide a geometric proof of the **Bott Periodicity Theorem** for the unitary group.
 
