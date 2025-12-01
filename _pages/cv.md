@@ -26,9 +26,7 @@ Education
 * **Tools**: LaTeX, GitHub
 ## Publications
 
-* **Yu-Chi Chang**, Hsing-Yen Chen, Yu-Tin Huang. "All zeros of (super) String Theory." *arXiv:2506.15299 [hep-th]*.
-  <br>
-  [[arXiv]](https://arxiv.org/abs/2506.15299) | [[PDF]](https://arxiv.org/pdf/2506.15299)
+* **Yu-Chi Chang**, Hsing-Yen Chen, Yu-Tin Huang. "[All zeros of (super) String Theory](https://arxiv.org/abs/2506.15299)." *arXiv:2506.15299 [hep-th]*.
   
 ## Teaching & Service
 * **Teaching Assistant**, National Taiwan University
