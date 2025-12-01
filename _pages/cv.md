@@ -13,11 +13,10 @@ redirect_from:
 
 ## Education
 
-* **M.S. in Physics**, National Taiwan University, 2025
-  * **Advisor:** Prof. Yu-Tin Huang
-  * **Thesis:** All zeros of (super) String Theory
- 
-* **B.S. in Physics & Mathematics (Dual Degree)**, National Taiwan University, 2023
+* M.S. in Physics, National Taiwan University, 2025
+  * Advisor: Prof. Yu-Tin Huang
+  * Thesis: All zeros of (super)string Theory
+* B.S. in Physics & Mathematics , National Taiwan University, 2023
 
 ## Research Interests
 * Quantum Field Theory and Scattering Amplitude
