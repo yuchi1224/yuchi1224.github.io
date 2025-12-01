@@ -17,31 +17,26 @@ Education
 * B.S. in Physics & Mathematics, National Taiwan University, 2023
 
 ## Research Interests
+* Quantum Field Theory and Scattering Amplitude
+* String Theory and Quantum Gravity
 * Mathematical Physics
-* High Energy Theory (Dualities, TQFT, etc.)
-* Geometry and Topology in Physics
 
 ## Skills
-* **Languages**: Python, C++, Mathematica
+* **Languages**: Python, Mathematica
 * **Tools**: LaTeX, GitHub
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+## Publications
+* **Yu-Chi Chang**, Hsing-Yen Chen, Yu-Tin Huang. "All zeros of (super) String Theory." *arXiv:2506.15299 [hep-th]*.
+
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Teaching & Service
+* **Teaching Assistant**, National Taiwan University
+  * Courses: Calculus (I-IV), General Physics (I-II)
+* **Tutor**, NTU Academic Counseling Service
+  * Provided one-on-one academic support for General Physics and Calculus.
+* **Physics Student Association**, NTU (Sep 2021 - Jul 2022)
+  * Organized laboratory visits and study abroad sharing sessions.
+* **Mountain Service Club**, NTU (Mar 2021 - Aug 2024)
+  * Designed and delivered educational courses for children in Indigenous communities.
