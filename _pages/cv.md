@@ -14,8 +14,8 @@ redirect_from:
 ## Education
 
 * M.S. in Physics, National Taiwan University, 2025
-  * Advisor: Prof. Yu-Tin Huang
-  * Thesis: All zeros of (super)string Theory
+  * Advisor: Prof. Yu-tin Huang
+
 * B.S. in Physics & Mathematics , National Taiwan University, 2023
 
 ## Research Interests
