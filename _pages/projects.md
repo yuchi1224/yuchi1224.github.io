@@ -18,3 +18,13 @@ Here is a collection of final projects and reports from my graduate and undergra
 * **[Morse Theory and Bott Periodicity Theorem](/files/geometry_project.pdf)**
   * *Course:* Geometry (Honored Course)
   * *Description:* Established the link between critical points and manifold homotopy types and applied these concepts to Riemannian geometry to derive the **Morse Index Theorem**. Analyzed the space of minimal geodesics in $SU(2m)$ to provide a geometric proof of the **Bott Periodicity Theorem** for the unitary group.
+
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true
+    }
+  });
+</script>
