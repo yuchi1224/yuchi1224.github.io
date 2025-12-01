@@ -25,11 +25,10 @@ Education
 * **Languages**: Python, Mathematica
 * **Tools**: LaTeX, GitHub
 ## Publications
-* **Yu-Chi Chang**, Hsing-Yen Chen, Yu-Tin Huang. "All zeros of (super) String Theory." *arXiv:2506.15299 [hep-th]*.
 
-<ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
+* **Yu-Chi Chang**, Hsing-Yen Chen, Yu-Tin Huang. "All zeros of (super) String Theory." *arXiv:2506.15299 [hep-th]*.
+  <br>
+  [[arXiv]](https://arxiv.org/abs/2506.15299) | [[PDF]](https://arxiv.org/pdf/2506.15299)
   
 ## Teaching & Service
 * **Teaching Assistant**, National Taiwan University
