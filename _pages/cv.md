@@ -26,8 +26,8 @@ redirect_from:
 ## Skills
 * **Languages**: Python, Mathematica
 * **Tools**: LaTeX, GitHub
+  
 ## Publications
-
 * **Yu-Chi Chang**, Hsing-Yen Chen, Yu-tin Huang. "[All zeros of (super) String Theory](https://arxiv.org/abs/2506.15299)." *arXiv:2506.15299 [hep-th]*.
   
 ## Teaching & Service
