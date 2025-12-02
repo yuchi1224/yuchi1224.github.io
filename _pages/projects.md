@@ -11,8 +11,8 @@ Here is a collection of final projects and reports from my graduate and undergra
 ## Physics
 * **[3D Point-Mass Gravity: No Horizon and Conical Singularity](/files/gr_project.pdf)**
   * *Course:* General Relativity
-  * *Description:* Derived the spherically symmetric point-mass solution in 2+1D Einstein gravity, showing that spacetime is locally flat with a conical singularity instead of an event horizon. Analyzed geodesic motion in this background to obtain the acceleration of a test particle.
-  * 
+  * *Description:* Derived the spherically symmetric point-mass solution in 2+1D Einstein gravity, showing that spacetime is locally flat with a conical singularity instead of an event horizon. Analyzed geodesic motion in this background to obtain the acceleration of a test particle.*
+     
 ## Mathematics
 * **[Morse Theory and Bott Periodicity Theorem](/files/geometry_final.pdf)**
   * *Course:* Geometry (Honored Course)
