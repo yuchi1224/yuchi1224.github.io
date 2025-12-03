@@ -5,7 +5,7 @@ permalink: /notes/
 author_profile: true
 ---
 
-A collection of raw notes, rough derivations, and random thoughts from my studies. Not polished for publication, but a record of my learning process.
+A collection of raw notes, rough derivations, and random thoughts. A simple record of my learning process.
 
 ## Research Notes
 * **Notes about Hidden Zeros and Surfaceology**
@@ -17,6 +17,6 @@ A collection of raw notes, rough derivations, and random thoughts from my studie
   * [Properties of u-variables and F-polynomials and Zeros in Tachyon](/files/relationandzeros.pdf)
   * [Dirty Calculation of Explicit Example](/files/Dirty.pdf)
 * **Others**
-  * [Generalize the analog gravity duality](/files/dual.pdf)
+  * [Generalization of Analog Gravity Duality](/files/dual.pdf)
 
 
