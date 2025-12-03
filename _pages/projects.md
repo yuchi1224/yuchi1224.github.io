@@ -25,6 +25,10 @@ Here is a collection of final projects and reports from my graduate and undergra
   * *Course:* Geometry (II)
   * *Description:* Established the link between critical points and manifold homotopy types and applied these concepts to Riemannian geometry to derive the Morse Index Theorem. Analyzed the space of minimal geodesics in $SU(2m)$ to provide a geometric proof of the Bott Periodicity Theorem for the unitary group.
  
+* **[Harmonic Function on Manifold with Negative Curvature](/files/geoana_compressed.pdf)**
+  * *Course:* Topics of Geometry Analysis
+  * *Description:* This report analyzes harmonic functions on negatively curved manifolds, establishing the existence and uniqueness of the Dirichlet problem. By constructing the Poisson kernel, I derived the Martin Integral Representation for positive solutions.
+ 
 * **[Variational Methods for Non-linear PDEs in Mathematical Physics](/files/physequation_project.pdf)**
   * *Course:* Equations of Mathematical Physics (Ⅰ) 
   * *Description:* This project analyzed existence theories for non-linear PDEs based on Michael Struwe’s Variational Methods, covering both Direct Methods and Minimax Methods. I utilized advanced functional analysis tools, such as the Concentration Compactness Principle and the Mountain Pass Lemma, to rigorously establish the existence of minimizers and saddle points in variational problems.
