@@ -6,7 +6,7 @@ author_profile: true
 mathjax: true
 ---
 
-A collection of raw notes, rough derivations, and random thoughts. A simple record of my learning process.
+Here is a collection of raw notes, rough derivations, and random thoughts. A simple record of my learning process.
 
 ## Research Notes
 * **Notes about Hidden Zeros and Surfaceology**
