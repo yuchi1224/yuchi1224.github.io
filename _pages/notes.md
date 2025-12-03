@@ -1,16 +1,16 @@
 ---
 layout: archive
-title: "Lecture Notes"
+title: "Notes"
 permalink: /notes/
 author_profile: true
 ---
 
 I enjoy organizing my understanding of physics and mathematics into rigorous notes. Below are some of the lecture notes I have written.
 
-## Graduate Physics
-* **[Advanced Quantum Mechanics](/files/aqm_notes.pdf)**
-  * Comprehensive notes covering scattering theory and identical particles.
-  
+## Research Notes
+* **Notes about Hidden Zeros and Surfaceology**
+  * [[1] Hidden Zeros in $Tr/phi^3$ Theory and Associahedron](/files/hidden1.pdf)
+  *   
 * **[String Theory I](/files/string_notes.pdf)**
   * Based on Polchinski's book, covering bosonic string quantization.
 
