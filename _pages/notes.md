@@ -16,5 +16,7 @@ A collection of raw notes, rough derivations, and random thoughts from my studie
   * [Relation between u-variables and F-polynomials](/files/uvarparametrization.pdf)
   * [Properties of u-variables and F-polynomials and Zeros in Tachyon](/files/relationandzeros.pdf)
   * [Dirty Calculation of Explicit Example](/files/Dirty.pdf)
+* **Others**
+  * [Generalize the analog gravity duality](/files/dual.pdf)
 
 
