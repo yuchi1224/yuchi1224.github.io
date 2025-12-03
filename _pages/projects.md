@@ -27,7 +27,7 @@ Here is a collection of final projects and reports from my graduate and undergra
  
 * **[Harmonic Function on Manifold with Negative Curvature](/files/geoana_compressed.pdf)**
   * *Course:* Topics of Geometry Analysis
-  * *Description:* This report analyzes harmonic functions on negatively curved manifolds, establishing the existence and uniqueness of the Dirichlet problem. By constructing the Poisson kernel, I derived the Martin Integral Representation for positive solutions.
+  * *Description:* This report analyzes harmonic functions on negatively curved manifolds, establishing the existence and uniqueness of the Dirichlet problem. By constructing the Poisson kernel, I derived the Martin Integral Representation for positive harmonic solutions.
  
 * **[Variational Methods for Non-linear PDEs in Mathematical Physics](/files/physequation_project.pdf)**
   * *Course:* Equations of Mathematical Physics (Ⅰ) 
