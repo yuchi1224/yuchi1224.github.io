@@ -20,4 +20,13 @@ A collection of raw notes, rough derivations, and random thoughts. A simple reco
 * **Others**
   * [Generalization of Analog Gravity Duality](/files/dual.pdf)
 
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true
+    }
+  });
+</script>
 
