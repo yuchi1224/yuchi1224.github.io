@@ -5,7 +5,7 @@ permalink: /notes/
 author_profile: true
 ---
 
-I enjoy organizing my understanding of physics and mathematics into rigorous notes. Below are some of the lecture notes I have written.
+A collection of raw notes, rough derivations, and random thoughts from my studies. Not polished for publication, but a record of my learning process.
 
 ## Research Notes
 * **Notes about Hidden Zeros and Surfaceology**
@@ -17,6 +17,4 @@ I enjoy organizing my understanding of physics and mathematics into rigorous not
   * [Properties of u-variables and F-polynomials and Zeros in Tachyon](/files/relationandzeros.pdf)
   * [Dirty Calculation of Explicit Example](/files/Dirty.pdf)
 
-## Undergraduate Mathematics
-* **[Complex Analysis](/files/complex_notes.pdf)**
-  * Notes on contour integration and residue theorem.
+
