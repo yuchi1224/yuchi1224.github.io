@@ -3,6 +3,7 @@ layout: archive
 title: "Notes"
 permalink: /notes/
 author_profile: true
+mathjax: true
 ---
 
 A collection of raw notes, rough derivations, and random thoughts. A simple record of my learning process.
