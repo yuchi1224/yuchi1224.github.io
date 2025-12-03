@@ -12,10 +12,10 @@ I enjoy organizing my understanding of physics and mathematics into rigorous not
   * [Hidden Zeros in Stringy Amplitude of $\text{Tr}(\phi^3)$ Theory and ABHY Associahedron](/files/hidden1.pdf)
   * [Stringy Deformation: Relation between $\text{Tr}(\phi^3)$ Theory, NLSM, and YM theory](/files/hidden2.pdf)
 * **Notes about Scaffolding Techniques and Zeros in Open String Amplitudes**
-  *[] 
-   
-* **[String Theory I](/files/string_notes.pdf)**
-  * Based on Polchinski's book, covering bosonic string quantization.
+  * [Scaffolding preserve Primary](/files/opeprimary.pdf)
+  * [Relation between u-variables and F-polynomials](/files/uvarparametrization.pdf)
+  * [Properties of u-variables and F-polynomials and Zeros in Tachyon(/files/relationandzeros.pdf)
+  * [Dirty Calculation of Explicit Example](/files/Dirty.pdf)
 
 ## Undergraduate Mathematics
 * **[Complex Analysis](/files/complex_notes.pdf)**
