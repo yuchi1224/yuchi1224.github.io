@@ -15,7 +15,7 @@ Here is a collection of final projects and reports from my graduate and undergra
  
 * **[Introduction to marginal triviality of the scaling limits of critical 4D Ising and $\phi^4$ models](/files/qft_project.pdf)**
   * *Course:* Quantum Field Theory (II)
-  * *Decsription:* This report provides a brief summary and overview of Aizenman and Duminil-Copin’s work on the triviality of 4D Ising and $\phi^4$ models.  The discussion highlights the paper's special techniques, specifically how the random current representation is used to resolve the marginal dimension problem.*
+  * *Decsription:* This report provides a brief summary and overview of Aizenman and Duminil-Copin’s work on the triviality of 4D Ising and $\phi^4$ models. It focuses on the key techniques used in the proof, such as the Griffiths-Simon class and the random current representation, to analyze correlation functions.*
      
 ## Mathematics
 * **[Morse Theory and Bott Periodicity Theorem](/files/geometry_final.pdf)**
