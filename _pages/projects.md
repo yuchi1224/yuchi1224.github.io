@@ -16,7 +16,7 @@ Here is a collection of final projects and reports from my graduate and undergra
 * **[Introduction to marginal triviality of the scaling limits of critical 4D Ising and $\phi^4$ models](/files/qft_project.pdf)**
   * *Course:* Quantum Field Theory (II)
   * *Decsription:* This report provides a brief summary and overview of Aizenman and Duminil-Copin’s work on the triviality of 4D Ising and $\phi^4$ models. It focuses on using the Griffiths-Simon class to bridge $\phi^4$ theory with the Ising model, effectively translating the problem into a statistical mechanics framework.
-* **[Solving the Hydrogen Spectrum via the Bootstrap Method: A Stieltjes Moment Problem Approach](/files/qft_project.pdf)**
+* **[Solving the Hydrogen Spectrum via the Bootstrap Method: A Stieltjes Moment Problem Approach](/files/QM_project.pdf)**
   * *Course:* Quantum Mechanics (I)
   * *Decsription:* This project implements the bootstrap method by mapping the radial Schrödinger equation to a Stieltjes moment problem to numerically constrain the energy spectrum. 
      
