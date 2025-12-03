@@ -14,7 +14,7 @@ I enjoy organizing my understanding of physics and mathematics into rigorous not
 * **Notes about Scaffolding Techniques and Zeros in Open String Amplitudes**
   * [Scaffolding preserve Primary](/files/opeprimary.pdf)
   * [Relation between u-variables and F-polynomials](/files/uvarparametrization.pdf)
-  * [Properties of u-variables and F-polynomials and Zeros in Tachyon(/files/relationandzeros.pdf)
+  * [Properties of u-variables and F-polynomials and Zeros in Tachyon](/files/relationandzeros.pdf)
   * [Dirty Calculation of Explicit Example](/files/Dirty.pdf)
 
 ## Undergraduate Mathematics
