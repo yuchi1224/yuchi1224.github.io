@@ -20,11 +20,11 @@ Here is a collection of final projects and reports from my graduate and undergra
 ## Mathematics
 * **[Morse Theory and Bott Periodicity Theorem](/files/geometry_final.pdf)**
   * *Course:* Geometry (Honored Course)
-  * *Description:* Established the link between critical points and manifold homotopy types and applied these concepts to Riemannian geometry to derive the Morse Index Theorem. Analyzed the space of minimal geodesics in $SU(2m)$ to provide a geometric proof of the Bott Periodicity Theorem for the unitary group.
+  * *Description:* Established the link between critical points and manifold homotopy types and applied these concepts to Riemannian geometry to derive the Morse Index Theorem. Analyzed the space of minimal geodesics in $SU(2m)$ to provide a geometric proof of the Bott Periodicity Theorem for the unitary group.*
  
 * **[Variational Methods for Non-linear PDEs in Mathematical Physics](/files/physequation.pdf) **
   * *Course:* Equations of Mathematical Physics (Ⅰ) 
-  * *Description:* This project analyzed existence theories for non-linear PDEs based on Michael Struwe’s Variational Methods, covering both Direct Methods and Minimax Methods. I utilized advanced functional analysis tools, such as the Concentration Compactness Principle and the Mountain Pass Lemma, to rigorously establish the existence of minimizers and saddle points in variational problems.
+  * *Description:* This project analyzed existence theories for non-linear PDEs based on Michael Struwe’s Variational Methods, covering both Direct Methods and Minimax Methods. I utilized advanced functional analysis tools, such as the Concentration Compactness Principle and the Mountain Pass Lemma, to rigorously establish the existence of minimizers and saddle points in variational problems.*
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 <script type="text/x-mathjax-config">
